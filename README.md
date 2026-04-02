@@ -9,12 +9,11 @@ covering customer segmentation, sales trends, and geospatial profitability insig
 
 ```
 olist-ecommerce-analysis/
-├── data/                          # Raw CSV files (not tracked)
 ├── notebooks/
-│   ├── 01_eda.ipynb               # Data cleaning & merging
-│   ├── 02_sql_analysis.ipynb      # SQL queries with pandasql
-│   └── 03_rfm_segmentation.ipynb  # RFM scoring & segmentation
-├── visuals/                       # Exported plots
+│   ├── 01_eda.ipynb                       # Data cleaning & merging
+│   ├── 02_sql_analysis.ipynb              # SQL queries with pandasql
+│   └── 03_rfm_segmentation.ipynb          # RFM scoring & segmentation
+├── Olist_BrazilianEcommerce_Report.pdf/   # Detailed Report with Visuals
 └── README.md
 ```
 
